@@ -1,0 +1,33 @@
+#linux基本概念
+
+#linux用户与权限管理
+
+
+#linux环境变量与文件查找
+1.搜索文件
+与搜索相关的命令常用的有 whereis，which，find 和 locate。
+（1）whereis简单快速
+
+
+#打包与解压
+
+#linux上获取帮助
+
+#管道与数据流重定向
+
+#linux软件安装
+
+#linux常用命令
+
+
+#Linux 目录结构与文件操作
+
+#查找文件
+
+#Linux 文件系统与磁盘管理
+
+#Linux Crontab
+
+#简单的正则表达式
+
+#Linux 进程管理 
